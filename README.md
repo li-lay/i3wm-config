@@ -4,6 +4,10 @@
 
 This is my I3wm configuration with Gruvbox theme.
 
+## 🌟 Preview
+
+![Preview Image]()
+
 ## Requirements
 
 My prefered packages.
