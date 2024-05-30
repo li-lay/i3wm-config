@@ -13,12 +13,5 @@ This is my I3wm configuration with Gruvbox theme.
 My prefered packages.
 
 ```shell
-i3
-dmenu
-polybar
-picom
-kitty
-fish
-feh
-fastfetch
+install i3 rofi polybar picom kitty fish feh fastfetch
 ```
